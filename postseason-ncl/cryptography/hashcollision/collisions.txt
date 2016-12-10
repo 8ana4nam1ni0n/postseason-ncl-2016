@@ -1,0 +1,9 @@
+2) sha1: password2
+ hash: 2aa60a8ff7fcd473d321e0146afd9e26df395147
+1) md5: cindy
+ hash: cc4b2066cfef89f2475de1d4da4b29c7
+3) whirlpool: mamaku
+ hash: 2416bec2831867fd5c6dba703ba1c89bc3d9a7b8c6d5c0a29ae7f1d789184af39deff3e25dc5d32887b8a50da1bc8c1c4a13109c0df81fe5fcc42e7e5b930824
+4) md5 h: 18082526
+ hash: 8c1e3328180ce3f7e2c411ee34eca515
+Finished

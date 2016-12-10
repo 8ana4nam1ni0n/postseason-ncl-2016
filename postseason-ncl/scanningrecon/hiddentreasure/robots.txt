@@ -1,0 +1,4 @@
+User-agent: *
+Disallow : /NCL-DIR-1000
+Disallow : /NCL-DIR-1337
+Disallow : /NCL-DIR-5000
